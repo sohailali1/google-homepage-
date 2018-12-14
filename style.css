@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+    margin:0 0;
+    padding: 0 0;
+  }
+
+.header{
+    position:fixed;
+    top:0px;
+    padding : 10px 20px;
+    width: 100%;
+}
+
+.header_right{ 
+    float:right;
+} 
+
+img {
+    display: block;
+    margin: 200px auto 0px auto;  
+  }
+
+.search_bar{
+   text-align: center;
+   padding:10px;
+}
+
+ul{
+    text-align: center;
+}
+
+.menubutton{
+    display: inline-block;
+    padding:10px;
+    color: grey;
+}
+
+.bottom_nav{
+    position:fixed;
+    width: 100%;
+    bottom:10px;
+    padding : 10px 10px;
+} 
+
+.footer_left{
+    display:inline-block;
+}
+
+.footer_right{
+    display:inline-block;
+    float:right;
+}
+
+.btn{
+  border: none;
+  background-color: inherit;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+
+
+  
+
